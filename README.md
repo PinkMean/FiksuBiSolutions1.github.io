@@ -11,7 +11,7 @@ Fiksu BI Solutions is a business intelligence consulting firm dedicated to makin
 
 ## Project Overview
 
-This website reflects Fiksu BI Solutions' commitment to strategic growth and intelligent solutions. The **Aurora Borealis** theme is used throughout the design, symbolizing clarity, insight, and innovation. Built with **HTML5** and **CSS3** using a template from [HTML5 UP](https://html5up.net/), the website has been customized to align with the Fiksu brand and the creative direction of **Pinkmean Creative**.
+This website reflects Fiksu BI Solutions' commitment to strategic growth and intelligent solutions. The **Aurora Borealis** theme is used throughout the design, symbolizing clarity, insight, and innovation. Built with **HTML5** and **CSS3** using a template from HTML5 UP, the website has been customized to align with the Fiksu brand and the creative direction of **Pinkmean Creative**.
 
 ---
 
