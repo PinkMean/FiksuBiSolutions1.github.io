@@ -32,7 +32,7 @@ This website reflects Fiksu BI Solutions' commitment to strategic growth and int
 ## Live Demo
 
 Explore the live demo hosted on GitHub Pages:  
-[https://pinkmean.github.io/FiksuBiSolutions1.github.io/services.html](https://pinkmean.github.io/FiksuBiSolutions1.github.io/services.html)
+[Fiksu Bi Solutions ](https://pinkmean.github.io/FiksuBiSolutions1.github.io/index.html)
 
 ![fiksubiweb](https://github.com/user-attachments/assets/d5639ba2-c9b2-40ae-b7e4-a0225c2422f3)
 
